@@ -2,7 +2,7 @@
 - 👀 I’m interested in Unblocked games websites
 - 🌱 I’m currently learning HTML
 - 💞️ I’m looking to collaborate on my unblocked games wesbite BOFA Time
-- 📫 How to reach me email me: admin@ctbt.xyz
+- 📫 How to reach me: email me at admin@ctbt.xyz
 - ⚡ Fun fact: I have the world's longest stopwatch
 
 <!---
