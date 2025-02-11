@@ -1,3 +1,5 @@
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=perisicnikola37)
+
 - 👋 Hi, I’m @CTBT1
 - 👀 I’m interested in Unblocked games websites
 - 🌱 I’m currently learning HTML
