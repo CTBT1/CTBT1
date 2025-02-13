@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **html**
 
-- 💬 Ask me about **My website**
+- 💬 Ask me about **my website**
 
 - 📫 How to reach me **admin@ctbt.xyz**
 
